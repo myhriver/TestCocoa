@@ -10,7 +10,6 @@
 		13E9EA57228A5D4200875753 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13E9EA56228A5D4200875753 /* AppDelegate.m */; };
 		13E9EA5A228A5D4200875753 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 13E9EA59228A5D4200875753 /* ViewController.m */; };
 		13E9EA5D228A5D4200875753 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 13E9EA5B228A5D4200875753 /* Main.storyboard */; };
-		13E9EA5F228A5D4400875753 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13E9EA5E228A5D4400875753 /* Assets.xcassets */; };
 		13E9EA62228A5D4400875753 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 13E9EA60228A5D4400875753 /* LaunchScreen.storyboard */; };
 		13E9EA65228A5D4400875753 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13E9EA64228A5D4400875753 /* main.m */; };
 /* End PBXBuildFile section */
@@ -22,7 +21,6 @@
 		13E9EA58228A5D4200875753 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		13E9EA59228A5D4200875753 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		13E9EA5C228A5D4200875753 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		13E9EA5E228A5D4400875753 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		13E9EA61228A5D4400875753 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		13E9EA63228A5D4400875753 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		13E9EA64228A5D4400875753 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -63,7 +61,6 @@
 				13E9EA58228A5D4200875753 /* ViewController.h */,
 				13E9EA59228A5D4200875753 /* ViewController.m */,
 				13E9EA5B228A5D4200875753 /* Main.storyboard */,
-				13E9EA5E228A5D4400875753 /* Assets.xcassets */,
 				13E9EA60228A5D4400875753 /* LaunchScreen.storyboard */,
 				13E9EA63228A5D4400875753 /* Info.plist */,
 				13E9EA64228A5D4400875753 /* main.m */,
@@ -129,7 +126,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				13E9EA62228A5D4400875753 /* LaunchScreen.storyboard in Resources */,
-				13E9EA5F228A5D4400875753 /* Assets.xcassets in Resources */,
 				13E9EA5D228A5D4200875753 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
